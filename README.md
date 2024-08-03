@@ -3,7 +3,7 @@
 
 ## Simplest WebScraper & WebCrawler online
 
-Dillinger is a localhost website, mobile-ready
+ZENDER is a localhost website, mobile-ready
 JS-powered WebSite data extractor.
 
 - Provide the URL of the wanted WebSite in the form
