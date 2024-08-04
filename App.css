@@ -58,3 +58,19 @@ body {
     max-height: 600px; /* Adjust this value as needed */
     overflow-y: auto;
 }
+
+#url{
+    width: 80%;
+    background-color: #0d0e0e;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    border: #0d0e0e;
+    color: #ffffff;
+    transition: 0.4s;
+}
+#url:hover {
+    width: 82%;
+    transition: 0.4s;
+    box-shadow: 0px 21px 133px -40px #5dd7f5;
+    border: #0d0e0e;
+}
