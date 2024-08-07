@@ -50,7 +50,7 @@ async function vratiSadrzaj(base_URL) {
         console.log(textContent.trim())
         return textContent.trim()
     } catch (error) {
-        console.error(`Error fetching content from ${currentUrl}: ${error.message}`)
+        console.error(`Error fetching content from ${base_URL}: ${error.message}`)
         throw error
     }
 }
