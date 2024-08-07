@@ -1,5 +1,6 @@
 # ZExtract
-![image](https://github.com/user-attachments/assets/503eeaa1-b168-49ee-b6b5-fede2dd0ae95)
+![image](https://github.com/user-attachments/assets/df2e43e2-42f6-4ad5-8009-b71e02eadfcd)
+
 
 ## Simplest WebScraper & WebCrawler online
 
