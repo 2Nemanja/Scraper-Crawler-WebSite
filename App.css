@@ -55,7 +55,7 @@ body {
 }
 
 #cardBody {
-    max-height: 600px; /* Adjust this value as needed */
+    max-height: 600px; 
     overflow-y: auto;
 }
 
